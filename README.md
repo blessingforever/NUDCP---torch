@@ -9,9 +9,11 @@ The code is translated from the original python version from [Github repository]
 Tensor operations have been changed from NumPy to Torch.
 
 # Citation
+```bibtex
 @article{Underwater Image Enhancement Method,
     author    = {Wei Song, Yan Wang, Dongmei Huang, Antonio Liotta, Cristian Perra},
     title     = {Enhancement of Underwater Images with Statistical Model of Background Light and Optimization of Transmission Map},
     journal   = {IEEE Transactions on Broadcasting},
     year      = {2019}
 }
+```
