@@ -6,7 +6,7 @@ Primarily used for predicting of the medium transmission map in underwater envir
 # Source and Difference
 The code is translated from the original python version from [Github repository](https://github.com/wangyanckxx/Enhancement-of-Underwater-Images-with-Statistical-Model-of-BL-and-Optimization-of-TM).
 
-Tensor operations have been changed from NumPy to Torch.
+Tensor operations are changed from NumPy to Torch and can be applied in cuda.
 
 # Citation
 ```bibtex
